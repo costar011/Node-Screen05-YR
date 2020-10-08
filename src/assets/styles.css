@@ -11,7 +11,7 @@
   width: 100px;
   height: 100%;
 
-  background-color: aqua;
+  background-color: #54a0ff;
 }
 
 .lay .lay__main {
@@ -21,19 +21,33 @@
 
 .lay .lay__main .lay__main1 {
   width: 1350px;
-  height: 20vh;
+  height: 30vh;
 
-  background-color: aquamarine;
+  background-color: #ff9ff3;
 }
 
 .lay .lay__main .lay__main2 {
   width: 1350px;
-  height: 30vh;
+  height: 40vh;
 
-  background-color: blueviolet;
+  background-color: #feca57;
 }
 
 .lay .lay__main3 {
   display: flex;
   flex-direction: row;
+}
+
+.lay .lay__main .lay__main3 .lay__main3-1 {
+  width: 675px;
+  height: 60vh;
+
+  background-color: #ff6b6b;
+}
+
+.lay .lay__main .lay__main3 .lay__main3-2 {
+  width: 675px;
+  height: 60vh;
+
+  background-color: #48dbfb;
 }
